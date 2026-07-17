@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=samir-cyb&label=Profile%20views&color=0e75b6&style=plastic" alt="samir-cyb" /> 
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samir-cyb" alt="samir-cyb" /></a> </p>
+
 ---
 
 ### 🚀 About Me
@@ -64,6 +66,23 @@ I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Stats Card (Bypasses main over-taxed server) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=samir-cyb&show_icons=true&theme=tokyonight&locale=en" alt="Redwan's GitHub Stats" height="180px" />
+  
+  <!-- GitHub Streak Card (Stable Alternative Server) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir-cyb&theme=tokyonight" alt="Redwan's Commit Streak" height="180px" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=samir-cyb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Redwan's Top Languages" height="180px" />
+</p>
 
 ---
 
