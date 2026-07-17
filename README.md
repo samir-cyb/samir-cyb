@@ -69,20 +69,23 @@ I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Insights
 
-<p align="center">
-  <!-- GitHub Stats Card (Bypasses main over-taxed server) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=samir-cyb&show_icons=true&theme=tokyonight&locale=en" alt="Redwan's GitHub Stats" height="180px" />
-  
-  <!-- GitHub Streak Card (Stable Alternative Server) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir-cyb&theme=tokyonight" alt="Redwan's Commit Streak" height="180px" />
-</p>
+<samp>
+▶ PROFILE METRICS 
+┌──────────────────────────────┬──────────────────────────────┐
+│  Primary Focus               │  AI Research & RL Systems     │
+│  Current Commit Cadence      │  High / Active               │
+│  Target Ecosystem            │  Edge AI, RAG & MARL         │
+└──────────────────────────────┴──────────────────────────────┘
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=samir-cyb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Redwan's Top Languages" height="180px" />
-</p>
+▶ LATEST CONTRIBUTIONS & REPOS
+</samp>
+
+* 🛠️ **Core Pipelines:** [samir-cyb](https://github.com/samir-cyb) — Open source machine learning networks & full-stack development setups.
+* 📦 **Production Deployments:** Edge processing modules, modular RAG engines, and active training scripts[cite: 1].
+
+> ⚡ **Live Status:** For up-to-the-minute commit activity, language breakdowns, and detailed graphs, click the **Activity** tab at the top right of this profile page!
 
 ---
 
