@@ -6,25 +6,25 @@
   <a href="https://linkedin.com/in/ras200">💼 LinkedIn</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-cyb&label=Profile%20views&color=0e75b6&style=plastic" alt="samir-cyb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samir-cyb" alt="samir-cyb" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=samir-cyb&label=Profile%20views&color=0e75b6&style=plastic" alt="samir-cyb" /> 
+</p>
 
 ---
 
 ### 🚀 About Me
-I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision, and Reinforcement Learning architectures**. With multiple peer-reviewed publications, my work spans from intelligent healthcare diagnostics to smart city edge infrastructure. 
+I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision, and Reinforcement Learning architectures**. With multiple peer-reviewed publications, my work spans from intelligent healthcare diagnostics to smart city edge infrastructure.
 
-- 🎓 **Education:** Pursuing BSc in Computer Science & Engineering at ULAB (Expected 2026)[cite: 1].
-- 🔬 **Research:** Currently exploring **Adaptive RAG architectures** and **Multi-Agent Reinforcement Learning (MARL)** for urban optimization[cite: 1].
-- 💡 **Core Interest:** Building robust, edge-ready AI systems that drive measurable social impact[cite: 1].
+- 🎓 **Education:** Pursuing BSc in Computer Science & Engineering at ULAB (Expected 2026).
+- 🔬 **Research:** Currently exploring **Adaptive RAG architectures** and **Multi-Agent Reinforcement Learning (MARL)** for urban optimization.
+- 💡 **Core Interest:** Building robust, edge-ready AI systems that drive measurable social impact.
 
 ---
 
 ### 🧪 Featured Research & Projects
-* **HornNet (IEEE QPAIN 2026):** Two-tier deep learning framework for privacy-preserving vehicle classification via acoustic signatures on the edge[cite: 1].
-* **Lexical AI (Ongoing):** Browser-native AI speech therapist utilizing Web Audio API and Reinforcement Learning for personalized vocal rehabilitation[cite: 1].
-* **Next Gen RAG (Ongoing):** A self-improving Retrieval-Augmented Generation pipeline adapting dynamically from user feedback loops[cite: 1].
+* **HornNet (IEEE QPAIN 2026):** Two-tier deep learning framework for privacy-preserving vehicle classification via acoustic signatures on the edge.
+* **Lexical AI (Ongoing):** Browser-native AI speech therapist utilizing Web Audio API and Reinforcement Learning for personalized vocal rehabilitation.
+* **Next Gen RAG (Ongoing):** A self-improving Retrieval-Augmented Generation pipeline adapting dynamically from user feedback loops.
 
 ---
 
