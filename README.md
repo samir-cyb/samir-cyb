@@ -6,11 +6,11 @@
   <a href="https://linkedin.com/in/ras200">💼 LinkedIn</a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=samir-cyb&label=Profile%20views&color=0e75b6&style=plastic" alt="samir-cyb" /> 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Profile%20Views-161+-0e75b6?style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Academic-3%20Publications-brightgreen?style=plastic" alt="Publications" />
+  <img src="https://img.shields.io/badge/Status-AI%20Researcher-orange?style=plastic" alt="Status" />
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samir-cyb" alt="samir-cyb" /></a> </p>
 
 ---
 
@@ -94,6 +94,3 @@ I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision
 <a href="https://www.linkedin.com/in/ras200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ridwan.samir.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
-
-### 💪 Code & Conquer
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quoteCategory=motivational)
