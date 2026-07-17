@@ -13,18 +13,18 @@
 ---
 
 ### 🚀 About Me
-I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision, and Reinforcement Learning architectures**. With multiple peer-reviewed publications, my work spans from intelligent healthcare diagnostics to smart city edge infrastructure.
+I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision, and Reinforcement Learning architectures**[cite: 1]. With multiple peer-reviewed publications, my work spans from intelligent healthcare diagnostics to smart city edge infrastructure[cite: 1].
 
-- 🎓 **Education:** Pursuing BSc in Computer Science & Engineering at ULAB (Expected 2026).
-- 🔬 **Research:** Currently exploring **Adaptive RAG architectures** and **Multi-Agent Reinforcement Learning (MARL)** for urban optimization.
-- 💡 **Core Interest:** Building robust, edge-ready AI systems that drive measurable social impact.
+- 🎓 **Education:** Pursuing BSc in Computer Science & Engineering at ULAB (Expected 2026)[cite: 1].
+- 🔬 **Research:** Currently exploring **Adaptive RAG architectures** and **Multi-Agent Reinforcement Learning (MARL)** for urban optimization[cite: 1].
+- 💡 **Core Interest:** Building robust, edge-ready AI systems that drive measurable social impact[cite: 1].
 
 ---
 
 ### 🧪 Featured Research & Projects
-* **HornNet (IEEE QPAIN 2026):** Two-tier deep learning framework for privacy-preserving vehicle classification via acoustic signatures on the edge.
-* **Lexical AI (Ongoing):** Browser-native AI speech therapist utilizing Web Audio API and Reinforcement Learning for personalized vocal rehabilitation.
-* **Next Gen RAG (Ongoing):** A self-improving Retrieval-Augmented Generation pipeline adapting dynamically from user feedback loops.
+* **HornNet (IEEE QPAIN 2026):** Two-tier deep learning framework for privacy-preserving vehicle classification via acoustic signatures on the edge[cite: 1].
+* **Lexical AI (Ongoing):** Browser-native AI speech therapist utilizing Web Audio API and Reinforcement Learning for personalized vocal rehabilitation[cite: 1].
+* **Next Gen RAG (Ongoing):** A self-improving Retrieval-Augmented Generation pipeline adapting dynamically from user feedback loops[cite: 1].
 
 ---
 
@@ -64,15 +64,6 @@ I am a CSE undergraduate researcher focusing on **Deep Learning, Computer Vision
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samir-cyb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="samir-cyb" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-cyb&show_icons=true&theme=tokyonight&locale=en" alt="samir-cyb" height="180px" />
-</p>
 
 ---
 
